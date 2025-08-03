@@ -3,7 +3,7 @@
 pdf attached
 [Tableau_Server_vs_Cloud_Comparison.pdf](https://github.com/user-attachments/files/21564264/Tableau_Server_vs_Cloud_Comparison.pdf)
 
-Site Admin Creator is the highest level role. Before receiving this role I wasn't able to see other users for a Tableau Cloud. Now I can.
+Site Admin Creator is the highest level role. Before receiving this role I wasn't able to see other users for a Tableau Cloud. Now I can. So the best assumption is my role was Creator
 
 🧩 When to Choose Each:
 Use Case	Best Option
